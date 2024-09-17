@@ -1,0 +1,60 @@
+H1 {
+  text-align: center;
+  display: flex;
+  color: rgb(184, 96, 187);
+}
+img {
+  text-align: center;
+  display: flex;
+  margin-bottom: 70px;
+}
+body {
+  width: 70%;
+  margin: 0 auto !important;
+}
+h2 {
+  display: flex;
+  background-color: rgb(101, 101, 221);
+}
+.myForm {
+  margin-top: 0vh;
+  margin-bottom: 10vh;
+}
+.divFlex {
+  height: 100px;
+  width: 50px;
+}
+.imgOne {
+  border-radius: 50%;
+  border-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.submitForm {
+  position: absolute;
+  top: 0;
+  z-index: -1;
+  width: 100%;
+}
+.imgTwo {
+  position: absolute;
+  top: 0;
+  z-index: -1;
+  width: 100%;
+  margin-top: 0px;
+}
+h3 {
+  color: rgb(48, 48, 197);
+  text-align: left;
+  margin-left: 100px;
+}
+
+form {
+  margin-left: 100px;
+  margin-right: 900px;
+}
+.bodyOne {
+  background-color: aqua;
+  margin-left: 100px;
+}
